@@ -1,0 +1,4 @@
+C:\Users\gohul\source\repos\oracle-connector-with-fsharp\oracle-connector-with-fsharp\obj\Debug\net5.0-windows\oracle-connector-with-fsharp.fsproj.AssemblyReference.cache
+C:\Users\gohul\source\repos\oracle-connector-with-fsharp\oracle-connector-with-fsharp\obj\Debug\net5.0-windows\oracle-connector-with-fsharp.AssemblyInfoInputs.cache
+C:\Users\gohul\source\repos\oracle-connector-with-fsharp\oracle-connector-with-fsharp\obj\Debug\net5.0-windows\oracle-connector-with-fsharp.AssemblyInfo.fs
+C:\Users\gohul\source\repos\oracle-connector-with-fsharp\oracle-connector-with-fsharp\obj\Debug\net5.0-windows\oracle-connector-with-fsharp.fsproj.CoreCompileInputs.cache

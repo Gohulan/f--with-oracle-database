@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1YUD/+MP53TgloEnCyr3SZxJt1ju82pfdj37zLG06A8TxqNdmo8Fn7BKCkI5EeP7X1SaIzzvdvK5fiB//S4txA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gohul\\source\\repos\\oracle-connector-with-fsharp\\oracle-connector-with-fsharp\\oracle-connector-with-fsharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gohul\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
